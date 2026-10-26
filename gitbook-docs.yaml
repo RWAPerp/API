@@ -25,6 +25,5 @@ site:
           title: API
           path: api
           default: true
-          draft: true
           content:
             directory: null
