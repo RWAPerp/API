@@ -4,13 +4,14 @@ site:
   structure:
     - type: section
       key: section-2
-      title: API
-      path: api
+      title: B2B-API
+      path: b2b-api
+      description: ""
       default: true
       children:
         - type: space
           key: space-2
-          title: API
+          title: B2B-API
           path: api
           default: true
           content:
