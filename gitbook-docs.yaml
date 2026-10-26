@@ -1,0 +1,30 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: rwaperp
+  structure:
+    - type: section
+      key: section-1
+      title: rwaperp
+      path: rwaperp
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: API
+          path: api
+          default: true
+          content:
+            directory: ./api
+    - type: section
+      key: section-2
+      title: API
+      path: api
+      children:
+        - type: space
+          key: space-2
+          title: API
+          path: api
+          default: true
+          draft: true
+          content:
+            directory: null
