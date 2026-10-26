@@ -1,0 +1,37 @@
+# public market data
+
+| Method | Path                                                                                                      | Auth |
+| ------ | --------------------------------------------------------------------------------------------------------- | ---- |
+| GET    | [`/v1/public/account`](/broken/pages/2b1b9853967552dd1cc755f6baddee103c467fad)                            | None |
+| GET    | [`/v1/public/announcement`](/broken/pages/9098cec5428548abd394d65928ff0dd15425042b)                       | None |
+| GET    | [`/v1/public/balance/stats`](/broken/pages/185e73ee13533a41f00943950a91236429e8e783)                      | None |
+| GET    | [`/v1/public/broker/daily_fee_revenue`](/broken/pages/1228daf84ca27c19139a12e5d51117a55ab089d4)           | None |
+| GET    | [`/v1/public/broker/name`](/broken/pages/e0e315f4b04b75d30eef391a3698356fc10045cf)                        | None |
+| GET    | [`/v1/public/broker/order_enum`](/broken/pages/7f7f0075d5ac01fa8896198131483085ff0cb1be)                  | None |
+| GET    | [`/v1/public/broker/order_enums`](/broken/pages/c53486bf069c6712f86362b63e1a28a860c7b2be)                 | None |
+| GET    | [`/v1/public/broker/stats`](/broken/pages/e5fa26f8ddcfa634a82bdb0a65723929823a5ec7)                       | None |
+| GET    | [`/v1/public/chain_info`](/broken/pages/821e622e6e58ebc5a8daa64e2e942e8a65781fc2)                         | None |
+| GET    | [`/v1/public/config`](/broken/pages/1a151521167c3dfd6bfc4085ccd1a689e26297a2)                             | None |
+| GET    | [`/v1/public/funding_rate/{symbol}`](/broken/pages/f31436de6402aaa4b8385a24748ebfc09aa337d6)              | None |
+| GET    | [`/v1/public/funding_rate_history`](/broken/pages/a2e160bbc9e6626c098143fea41c48c5db3ea4bf)               | None |
+| GET    | [`/v1/public/funding_rates`](/broken/pages/9ffc162521b65ad89dfc5bc9a6b6811f82a503fe)                      | None |
+| GET    | [`/v1/public/futures`](/broken/pages/afe8827e45692a55da356537587061cd134227a2)                            | None |
+| GET    | [`/v1/public/futures/{symbol}`](/broken/pages/5fd43fde3eb3fa4f28090be5d92a6a6a68ff0e79)                   | None |
+| GET    | [`/v1/public/futures_market`](/broken/pages/3d7a2c57d48ab5b7a1c7c45e045014e2cd28cf71)                     | None |
+| GET    | [`/v1/public/index_price_source`](/broken/pages/415dea2dba59930848d87d084b4faaac07bc5e2e)                 | None |
+| GET    | [`/v1/public/info`](/broken/pages/14f9dc73a2310b168a2303be86063e1f1484c322)                               | None |
+| GET    | [`/v1/public/info/{symbol}`](/broken/pages/5e7056a184b6f2fe370b18a75f15cf3dd3192e49)                      | None |
+| GET    | [`/v1/public/insurancefund`](/broken/pages/2f1946d5567f984b0e04f95e19bec8179af77f8b)                      | None |
+| GET    | [`/v1/public/leverage`](/broken/pages/9fc62ba289b2c01e5d4e73970816e65f17c9f84e)                           | None |
+| GET    | [`/v1/public/liquidated_positions`](/broken/pages/f97fc4679f7d244f8efb43f80703dabb11d05b55)               | None |
+| GET    | [`/v1/public/liquidation`](/broken/pages/242a4d4a2908a3df8e19c474a7363516b00dea80)                        | None |
+| GET    | [`/v1/public/market_info/funding_history`](/broken/pages/9019aab99502608384f512baa968784ff54023c1)        | None |
+| GET    | [`/v1/public/market_info/history_charts`](/broken/pages/205d07ceceab0831d41465c1a82a0ffadae9e53f)         | None |
+| GET    | [`/v1/public/market_info/price_changes`](/broken/pages/2c47e5c80c41ec691af92223c1616df3a9bed1db)          | None |
+| GET    | [`/v1/public/market_info/traders_open_interests`](/broken/pages/e652cb83019be5d54cee6cb5aff210d52495c0e9) | None |
+| GET    | [`/v1/public/market_trades`](/broken/pages/73fdf2148cab7ccca1e085432e59594c0e48e90d)                      | None |
+| GET    | [`/v1/public/sv_nonce`](/broken/pages/1ad69f0a0bdf48f60fa89a02c568db9684d42c6a)                           | None |
+| GET    | [`/v1/public/system_info`](/broken/pages/510da3e078c9a9befa217e257b741ab078012cc5)                        | None |
+| GET    | [`/v1/public/token`](/broken/pages/8d0af172f571e8e12933abdf891ee14cb76af348)                              | None |
+| GET    | [`/v1/public/vault_balance`](/broken/pages/a939cd8411993aa1c353aad4f9162b8f396cea89)                      | None |
+| GET    | [`/v1/public/volume/stats`](/broken/pages/bee7e90d502d072271173573823d1e52404c23be)                       | None |
